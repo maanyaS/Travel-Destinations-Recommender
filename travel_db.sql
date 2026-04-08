@@ -21,7 +21,7 @@ SET @@SESSION.SQL_LOG_BIN= 0;
 -- GTID state at the beginning of the backup 
 --
 
-SET @@GLOBAL.GTID_PURGED=/*!80000 '+'*/ 'd2f24b1a-32b4-11f1-939d-f1b0a00f6cee:1-4';
+-- SET @@GLOBAL.GTID_PURGED=/*!80000 '+'*/ 'd2f24b1a-32b4-11f1-939d-f1b0a00f6cee:1-4';
 
 --
 -- Table structure for table `travel_data`
